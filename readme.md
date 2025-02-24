@@ -46,7 +46,7 @@ This script is designed to facilitate the computation of the Tree-Wasserstein Di
 
 - **Objective**: To showcase our TWD's potential in analyzing high-dimensional biological data, particularly in distinguishing cell types based on gene expression profiles.
 - **Datasets**:
-  - **Zeisel et al. Data**: A comprehensive single-cell RNA sequencing dataset from the mouse cortex and hippocampus. It offers a challenging testbed for cell type classification and analysis.
+  - **Zeisel et al. Data**: A single-cell RNA sequencing dataset from the mouse cortex and hippocampus. It offers a challenging testbed for cell type classification and analysis.
   - **CBMC Data**: Focuses on single-cell gene expression in human cells, providing a rich dataset for testing the efficacy of "Tree-Wasserstein Distance for High Dimensional Data with a Latent Feature Hierarchy" in biomedical research.
 - **Data Access**: Both datasets can be downloaded from the [scGeneFit-python GitHub repository](https://github.com/solevillar/scGeneFit-python/tree/62f88ef0765b3883f592031ca593ec79679a52b4/scGeneFit/data_files).
 
